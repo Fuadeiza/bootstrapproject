@@ -1,0 +1,25 @@
+.navbar{
+    background-color: rgb(65, 190, 199) !important;
+    color: antiquewhite !important;
+}
+
+.navbar .nav li a:hover{
+    background-color: rgb(158, 141, 236) !important; 
+    color: white! important;
+}
+
+body {
+    padding-top: 65px;
+}
+.garba{
+    height: 150px;
+    width: 150px;
+}
+.garba:hover{
+    opacity: 0.8;
+    border-radius: 50%;
+}
+.hori{
+    border: 0.5px solid grey;;
+}
+
